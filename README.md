@@ -1,7 +1,5 @@
 # Slides
 
-![RubyZGLogo](http://photos1.meetupstatic.com/photos/event/d/3/1/0/600_413754032.jpeg)
-
 ## 2015-03-31
 Filip Defar - How to replace Ruby meetup speakers with robots
 
