@@ -23,12 +23,12 @@ Nikica Jokić - WebMachine
 Željko Filipin - Basic usage of RuboCop
 
 ## 2014-10-28
-Radan Skoric - Where to put the business logic?
+Radan Skoric - [Where to put the business logic?](http://radanskoric.github.io/ror_business_logic_presentation/#/)
 
-Bruno Sutic - Arel
+Bruno Sutic - [Arel](https://speakerdeck.com/brunosutic/introduction-to-arel)
 
 ## 2014-10-01
-Damir Svrtan - Building a bidirectional web framework in Ruby
+Damir Svrtan - [Building a bidirectional web framework in Ruby](http://slides.com/damirsvrtan/bidirectional-ruby-framework#)
 
 Bruno Sutic - Deploying Rails app with Capistrano
 
@@ -39,7 +39,7 @@ Jan Varljen - Continuous Integration process with Ruby On Rails
 ## 2014-07-31
 
 ## 2014-05-21
-Janko Marohnić - Rails Engines
+Janko Marohnić - [Rails Engines](https://speakerdeck.com/janko_m/rails-engines)
 
 ## 2014-04-22
 Hrvoje Simic - [Hipster::Test part II](https://github.com/shime/hipster_test)
