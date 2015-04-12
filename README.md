@@ -3,7 +3,7 @@
 ## 2015-03-31
 Filip Defar - How to replace Ruby meetup speakers with robots
 
-Stanko Krtalić Rusendić - Ruby Extensions
+Stanko Krtalić Rusendić - [Ruby Extensions](https://github.com/rubyzg/slides/blob/master/2015-03-31/ruby_extensions.pdf)
 
 ## 2015-02-24
 Damir Svrtan - [Has anyone seen puts?](http://slides.com/damirsvrtan/ruby-talks-1-9#/)
