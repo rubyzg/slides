@@ -1,5 +1,7 @@
 # Slides
 
+![RubyZGLogo](http://photos1.meetupstatic.com/photos/event/d/3/1/0/600_413754032.jpeg)
+
 ## 2015-03-31
 Filip Defar - How to replace Ruby meetup speakers with robots
 
@@ -33,10 +35,6 @@ Damir Svrtan - [Building a bidirectional web framework in Ruby](http://slides.co
 Bruno Sutic - Deploying Rails app with Capistrano
 
 Jan Varljen - Continuous Integration process with Ruby On Rails
-
-## 2014-08-28
-
-## 2014-07-31
 
 ## 2014-05-21
 Janko Marohnić - [Rails Engines](https://speakerdeck.com/janko_m/rails-engines)
