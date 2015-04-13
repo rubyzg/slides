@@ -1,7 +1,7 @@
 # Slides
 
 ## 2015-03-31
-Filip Defar - How to replace Ruby meetup speakers with robots
+Filip Defar - [How to replace Ruby meetup speakers with robots](http://www.refactorit.co/talks/robots/)
 
 Stanko Krtalić Rusendić - [Ruby Extensions](https://github.com/rubyzg/slides/blob/master/2015-03-31/ruby_extensions.pdf)
 
