@@ -13,7 +13,7 @@ Radan Skorić - Rails spring cleaning
 ## 2015-01-27
 Bruno Sutic - Capistrano as a deployment tool.
 
-Stjepan Hadjic - Mina as a deployment tool.
+Stjepan Hadjic - [Mina as a deployment tool](http://slides.com/stjepanhadjic/mina/#/)
 
 ## 2014-12-23
 Brian Underwood - Neo4j gem
