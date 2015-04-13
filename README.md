@@ -16,7 +16,7 @@ Bruno Sutic - Capistrano as a deployment tool.
 Stjepan Hadjic - [Mina as a deployment tool](http://slides.com/stjepanhadjic/mina/#/)
 
 ## 2014-12-23
-Brian Underwood - Neo4j gem
+Brian Underwood - [Neo4j and Ruby](http://www.brian-underwood.codes/asciidoc-slides/content/presentation/neo4j-ruby/)
 
 Nikica Jokić - WebMachine
 
