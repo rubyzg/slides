@@ -18,7 +18,7 @@ Stjepan Hadjic - [Mina as a deployment tool](http://slides.com/stjepanhadjic/min
 ## 2014-12-23
 Brian Underwood - [Neo4j and Ruby](http://www.brian-underwood.codes/asciidoc-slides/content/presentation/neo4j-ruby/)
 
-Nikica Jokić - WebMachine
+Nikica Jokić - [WebMachine](https://speakerdeck.com/neektza/building-well-defined-apis-part-1-proper-http)
 
 Željko Filipin - Basic usage of RuboCop
 
