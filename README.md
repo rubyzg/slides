@@ -38,13 +38,13 @@ Jan Varljen - Continuous Integration process with Ruby On Rails
 Janko Marohnić - [Rails Engines](https://speakerdeck.com/janko_m/rails-engines)
 
 ## 2014-04-22
-Hrvoje Simić - [Hipster::Test part II](https://github.com/shime/hipster_test)
+Hrvoje Šimić - [Hipster::Test part II](https://github.com/shime/hipster_test)
 
 Janko Marohnic - Pry
 
 ## 2014-03-21
 Vlado Cingel - Rails DB info
 
-Hrvoje Simić - [Hipster::Test](https://github.com/shime/hipster_test)
+Hrvoje Šimić - [Hipster::Test](https://github.com/shime/hipster_test)
 
 Nikica Jokić - [Actor based concurrency](https://github.com/neektza/actor_demo)
