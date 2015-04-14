@@ -40,7 +40,7 @@ Janko Marohnić - [Rails Engines](https://speakerdeck.com/janko_m/rails-engines)
 ## 2014-04-22
 Hrvoje Šimić - [Hipster::Test part II](https://github.com/shime/hipster_test)
 
-Janko Marohnic - Pry
+~~Janko Marohnic - Pry~~ *SLIDES NOT AVAILABLE*
 
 ## 2014-03-21
 Vlado Cingel - Rails DB info
