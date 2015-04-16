@@ -43,7 +43,7 @@ Hrvoje Šimić - [Hipster::Test part II](https://github.com/shime/hipster_test)
 ~~Janko Marohnic - Pry~~ *SLIDES NOT AVAILABLE*
 
 ## 2014-03-21
-Vlado Cingel - Rails DB info
+Vlado Cingel - [Rails DB info](http://vlado.github.io/slides/2014-03-21-RubyZG-rails-db-info)
 
 Hrvoje Šimić - [Hipster::Test](https://github.com/shime/hipster_test)
 
