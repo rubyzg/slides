@@ -20,7 +20,7 @@ Brian Underwood - [Neo4j and Ruby](http://www.brian-underwood.codes/asciidoc-sli
 
 Nikica Jokić - [WebMachine](https://speakerdeck.com/neektza/building-well-defined-apis-part-1-proper-http)
 
-Željko Filipin - Basic usage of RuboCop
+Željko Filipin - [Basic usage of RuboCop](http://filipin.eu/rubocop/)
 
 ## 2014-10-28
 Radan Skorić - [Where to put the business logic?](http://radanskoric.github.io/ror_business_logic_presentation/#/)
