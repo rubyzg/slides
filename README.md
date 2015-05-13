@@ -11,7 +11,7 @@ Damir Svrtan - [Has anyone seen puts?](http://slides.com/damirsvrtan/ruby-talks-
 Radan Skorić - Rails spring cleaning
 
 ## 2015-01-27
-Bruno Sutić - Capistrano as a deployment tool.
+Bruno Sutić - [Capistrano as a deployment tool](https://speakerdeck.com/brunosutic/capistrano-vs-mina-capistrano-demo-talk)
 
 Stjepan Hadjić - [Mina as a deployment tool](http://slides.com/stjepanhadjic/mina/#/)
 
@@ -30,7 +30,7 @@ Bruno Sutić - [Arel](https://speakerdeck.com/brunosutic/introduction-to-arel)
 ## 2014-10-01
 Damir Svrtan - [Building a bidirectional web framework in Ruby](http://slides.com/damirsvrtan/bidirectional-ruby-framework#)
 
-Bruno Sutić - Deploying Rails app with Capistrano
+Bruno Sutić - [Deploying Rails apps with Capistrano](https://speakerdeck.com/brunosutic/deploying-rails-apps-with-capistrano)
 
 Jan Varljen - Continuous Integration process with Ruby On Rails
 
