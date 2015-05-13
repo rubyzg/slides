@@ -1,5 +1,13 @@
 # Slides
 
+## 2015-04-28
+
+Orest Kulik – [ELK Stack](https://github.com/okulik/elastic-rubyzg)
+
+Zoran Majstorović – [CryptoRuby 101](https://speakerdeck.com/zmajstor/cryptoruby-101)
+
+Janko Marohnić – [Sequel](https://speakerdeck.com/janko_m/sequel)
+
 ## 2015-03-31
 Filip Defar - [How to replace Ruby meetup speakers with robots](http://www.refactorit.co/talks/robots/)
 
