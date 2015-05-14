@@ -40,7 +40,7 @@ Damir Svrtan - [Building a bidirectional web framework in Ruby](http://slides.co
 
 Bruno Sutić - [Deploying Rails apps with Capistrano](https://speakerdeck.com/brunosutic/deploying-rails-apps-with-capistrano)
 
-Jan Varljen - Continuous Integration process with Ruby On Rails
+Jan Varljen - [Continuous Integration process with Ruby On Rails](http://slides.com/janvarljen/rubyonrailsci#/)
 
 ## 2014-05-21
 Janko Marohnić - [Rails Engines](https://speakerdeck.com/janko_m/rails-engines)
