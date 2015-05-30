@@ -2,9 +2,9 @@
 
 ## 2015-05-26
 
-[Berislav Babic](https://github.com/rubyzg/slides/blob/master/2015-05-26/Marketing%20Yourself.pdf)
+[Berislav Babic](https://github.com/berislavbabic) - [Marketing Yourself](https://github.com/rubyzg/slides/blob/master/2015-05-26/Marketing%20Yousrelf.pdf)
 
-[Vlado Cingel](http://vlado.github.io/slides/2015-05-26-RubyZG-elasticsearch-on-rails/#/)
+[Vlado Cingel](https://github.com/vlado) - [Elasticsearch On Rails](http://vlado.github.io/slides/2015-05-26-RubyZG-elasticsearch-on-rails/#/)
 
 ## 2015-04-28
 
