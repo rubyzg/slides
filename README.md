@@ -1,5 +1,11 @@
 # Slides
 
+## 2015-05-26
+
+[Berislav Babic](https://github.com/rubyzg/slides/blob/master/2015-05-26/Marketing%20Yourself.pdf)
+
+[Vlado Cingel](http://vlado.github.io/slides/2015-05-26-RubyZG-elasticsearch-on-rails/#/)
+
 ## 2015-04-28
 
 [Orest Kulik](https://github.com/okulik) – [ELK Stack](https://github.com/okulik/elastic-rubyzg)
