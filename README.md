@@ -3,6 +3,7 @@
 ## 2015-06-30
 
 [Stjepan Hadjić](https://github.com/d4be4st) - [MySQL -> PostgreSQL](http://slides.com/stjepanhadjic/mysql-postgresql)
+
 [Bruno Sutić](https://github.com/bruno-) - [Readline + irb/pry = <3](https://speakerdeck.com/brunosutic/pry-equals-3)
 
 ## 2015-05-26
