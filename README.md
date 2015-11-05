@@ -1,5 +1,11 @@
 # Slides
 
+## 2015-10-27
+
+[Ivan Nemytchenko](https://github.com/inem) - [Stop being a Rails developer](https://www.slideshare.net/secret/4k5WrmRcpnfiQ5)
+
+## 2015-09-29
+
 ## 2015-06-30
 
 [Stjepan Hadjić](https://github.com/d4be4st) - [MySQL -> PostgreSQL](http://slides.com/stjepanhadjic/mysql-postgresql)
