@@ -6,6 +6,8 @@
 
 ## 2015-09-29
 
+[Jan Varljen](https://github.com/janvarljen) - [ActiveRecord Views](http://slides.com/janvarljen/activerecordviews)
+
 ## 2015-06-30
 
 [Stjepan Hadjić](https://github.com/d4be4st) - [MySQL -> PostgreSQL](http://slides.com/stjepanhadjic/mysql-postgresql)
