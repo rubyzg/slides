@@ -4,6 +4,10 @@
 
 [Ivan Nemytchenko](https://github.com/inem) - [Stop being a Rails developer](https://www.slideshare.net/secret/4k5WrmRcpnfiQ5)
 
+[Dario Daic](https://github.com/dariodaic) - [Enumerators - Are they worth it?](http://slides.com/dariodaic/enumerators#/1)
+ +
+[Code examples](https://github.com/dariodaic/presentations/tree/master/enumerator/code_examples)
+
 ## 2015-09-29
 
 [Jan Varljen](https://github.com/janvarljen) - [ActiveRecord Views](http://slides.com/janvarljen/activerecordviews)
