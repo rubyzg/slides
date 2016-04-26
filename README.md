@@ -3,25 +3,30 @@
 ## 2015-03-31
 
 [Janko Marohnić](https://github.com/janko-m) - Improve file uploads with Shrine 
-Ante Barać - Ruby on Rails na skliskom terenu
+
+[Ante Barać](https://github.com/abarac) - Ruby on Rails na skliskom terenu
 
 ## 2015-02-25
 
 [Dario Daic](https://github.com/dariodaic) - Ruby objects with a telephone 
+
 [Stanko Krtalić Rusendić](https://github.com/Stankec) - Docker for Rubyists
 
 ## 2015-01-28
 [Filip Defar](https://github.com/dabrorius) - Ruby still wants to be your best friend
+
 [Vlado Cingel](https://github.com/vlado) - How to deploy Rails on Windows, NOT! 
 
 ## 2015-12-22
 
 [Nikola Šantić](https://github.com/shnikola) - Čovječe, gdje mi je konstanta?
+
 [Bruno Šutić](https://github.com/bruno-) - Struct klasa
 
 ## 2015-11-24
 
 [Nikica Jokic](https://github.com/neektza) - Demistyfied Sidekiq
+
 [Vedran Hrncic](https://github.com/vr4b4c) - Sketching object model using common sense
 
 ## 2015-10-27
