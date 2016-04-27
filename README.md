@@ -1,18 +1,18 @@
 # Slides
 
-## 2015-03-31
+## 2016-03-31
 
 [Janko Marohnić](https://github.com/janko-m) - Improve file uploads with Shrine 
 
 [Ante Barać](https://github.com/abarac) - Ruby on Rails na skliskom terenu
 
-## 2015-02-25
+## 2016-02-25
 
-[Dario Daic](https://github.com/dariodaic) - Ruby objects with a telephone 
+[Dario Daic](https://github.com/dariodaic) - [Ruby objects with a telephone](http://slides.com/dariodaic/ruby_objects_with_a_telephone#/)
 
 [Stanko Krtalić Rusendić](https://github.com/Stankec) - Docker for Rubyists
 
-## 2015-01-28
+## 2016-01-28
 [Filip Defar](https://github.com/dabrorius) - Ruby still wants to be your best friend
 
 [Vlado Cingel](https://github.com/vlado) - How to deploy Rails on Windows, NOT! 
@@ -34,8 +34,6 @@
 [Ivan Nemytchenko](https://github.com/inem) - [Stop being a Rails developer](https://www.slideshare.net/secret/4k5WrmRcpnfiQ5)
 
 [Dario Daic](https://github.com/dariodaic) - [Enumerators - Are they worth it?](http://slides.com/dariodaic/enumerators#/1)
- +
-[Code examples](https://github.com/dariodaic/presentations/tree/master/enumerator/code_examples)
 
 ## 2015-09-29
 
