@@ -2,7 +2,7 @@
 
 ## 2016-03-31
 
-[Janko Marohnić](https://github.com/janko-m) - Improve file uploads with Shrine 
+[Janko Marohnić](https://github.com/janko-m) - Improve file uploads with Shrine
 
 [Ante Barać](https://github.com/abarac) - Ruby on Rails na skliskom terenu
 
@@ -13,9 +13,9 @@
 [Stanko Krtalić Rusendić](https://github.com/Stankec) - Docker for Rubyists
 
 ## 2016-01-28
-[Filip Defar](https://github.com/dabrorius) - Ruby still wants to be your best friend
+[Filip Defar](https://github.com/dabrorius) - [Ruby still wants to be your best friend](https://github.com/rubyzg/slides/blob/master/2016-01-28/ruby-best-friend.pdf)
 
-[Vlado Cingel](https://github.com/vlado) - How to deploy Rails on Windows, NOT! 
+[Vlado Cingel](https://github.com/vlado) - How to deploy Rails on Windows, NOT!
 
 ## 2015-12-22
 
