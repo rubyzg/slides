@@ -3,6 +3,7 @@
 ## 2016-04-28
 
 [Dario Daic](https://github.com/dariodaic) - [Pry like a gentleman/lady!](http://slides.com/dariodaic/repl_pry#/)
+[Stanko Krtalić Rusendić](https://github.com/Stankec) - [Stubs, mocks and spies](2016-04-28/stubs_mocks_spies.pdf)
 
 ## 2016-03-31
 
