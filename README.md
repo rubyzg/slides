@@ -14,7 +14,7 @@
 
 [Dario Daic](https://github.com/dariodaic) - [Ruby objects with a telephone](http://slides.com/dariodaic/ruby_objects_with_a_telephone#/)
 
-[Stanko Krtalić Rusendić](https://github.com/Stankec) - Docker for Rubyists
+[Stanko Krtalić Rusendić](https://github.com/Stankec) - [Docker for Rubyists](2016-02-25/docker_for_ruby_devs.pdf)
 
 ## 2016-01-28
 [Filip Defar](https://github.com/dabrorius) - [Ruby still wants to be your best friend](https://github.com/rubyzg/slides/blob/master/2016-01-28/ruby-best-friend.pdf)
