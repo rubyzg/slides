@@ -1,5 +1,9 @@
 # Slides
 
+## 2016-04-28
+
+[Dario Daic](https://github.com/dariodaic) - [Pry like a gentleman/lady!](http://slides.com/dariodaic/repl_pry#/)
+
 ## 2016-03-31
 
 [Janko Marohnić](https://github.com/janko-m) - Improve file uploads with Shrine
