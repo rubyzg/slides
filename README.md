@@ -27,7 +27,7 @@
 
 [Nikola Šantić](https://github.com/shnikola) - Čovječe, gdje mi je konstanta?
 
-[Bruno Sutić](https://github.com/bruno-) - Struct klasa
+[Bruno Sutić](https://github.com/bruno-) - [Struct klasa](2015-12-22/bruno_sutic_ruby_struct.rb)
 
 ## 2015-11-24
 
