@@ -25,7 +25,7 @@
 
 ## 2015-12-22
 
-[Nikola Šantić](https://github.com/shnikola) - Čovječe, gdje mi je konstanta?
+[Nikola Šantić](https://github.com/shnikola) - [Čovječe, gdje mi je konstanta?](https://slides.com/nikolasantic/rails-autoloading)
 
 [Bruno Sutić](https://github.com/bruno-) - [Struct klasa](2015-12-22/bruno_sutic_ruby_struct.rb)
 
