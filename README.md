@@ -8,7 +8,7 @@
 
 ## 2016-03-31
 
-[Janko Marohnić](https://github.com/janko-m) - Improve file uploads with Shrine
+[Janko Marohnić](https://github.com/janko-m) - [Improve file uploads with Shrine](https://speakerdeck.com/janko_m/shrine-file-upload-toolkit-for-ruby)
 
 [Ante Barać](https://github.com/abarac) - Ruby on Rails na skliskom terenu
 
