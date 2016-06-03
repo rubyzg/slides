@@ -1,5 +1,9 @@
 # Slides
 
+## 2016-06-02
+
+[Zoran Majstorovic](https://github.com/zmajstor) - [Comparing Ruby HTTP Clients](2016-06-02/http_clients.pdf)
+
 ## 2016-04-28
 
 [Dario Daic](https://github.com/dariodaic) - [Pry like a gentleman/lady!](http://slides.com/dariodaic/repl_pry#/)
