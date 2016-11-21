@@ -4,6 +4,8 @@
 
 [Melita Kokot](https://github.com/melcha) - [Dox](2016-10-25/dox.pdf)
 
+[Stanko Krtalić Rusendić](https://github.com/Stankec) - [Steganography](2016-10-25/steganography.pdf)
+
 ## 2016-06-02
 
 [Zoran Majstorovic](https://github.com/zmajstor) - [Comparing Ruby HTTP Clients](2016-06-02/http_clients.pdf)
