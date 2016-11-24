@@ -6,6 +6,9 @@
 
 [Stanko Krtalić Rusendić](https://github.com/Stankec) - [Steganography](2016-10-25/steganography.pdf)
 
+## 2016-26-09
+
+[Stjepan Hadjić](https://github.com/d4be4st) - [Blazingfast deployment with Mina](2016-09-26/blazingfast.pdf)
 ## 2016-06-02
 
 [Zoran Majstorovic](https://github.com/zmajstor) - [Comparing Ruby HTTP Clients](2016-06-02/http_clients.pdf)
