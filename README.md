@@ -10,6 +10,10 @@
 
 [Stjepan Hadjić](https://github.com/d4be4st) - [Blazingfast deployment with Mina](2016-09-26/blazingfastmina.pdf)
 
+## 2016-06-30
+
+[Radan Skorić](https://github.com/radanskoric) - [**** microservices](2016-06-30/microservices.pdf)
+
 ## 2016-06-02
 
 [Zoran Majstorovic](https://github.com/zmajstor) - [Comparing Ruby HTTP Clients](2016-06-02/http_clients.pdf)
@@ -19,6 +23,8 @@
 [Dario Daic](https://github.com/dariodaic) - [Pry like a gentleman/lady!](http://slides.com/dariodaic/repl_pry#/)
 
 [Stanko Krtalić Rusendić](https://github.com/Stankec) - [Stubs, mocks and spies](2016-04-28/stubs_mocks_spies.pdf)
+
+[Radan Skorić](https://github.com/radanskoric) - [Build a DSL for fun and profit (live coding)](https://github.com/radanskoric/presentations/tree/master/building_dsls)
 
 ## 2016-03-31
 
@@ -87,7 +93,7 @@
 ## 2015-02-24
 [Damir Svrtan](https://github.com/DamirSvrtan) - [Has anyone seen puts?](http://slides.com/damirsvrtan/ruby-talks-1-9#/)
 
-[Radan Skorić](https://github.com/radanskoric) - Rails spring cleaning
+[Radan Skorić](https://github.com/radanskoric) - [Rails spring cleaning](http://radanskoric.github.io/presentations/large_refactoring)
 
 ## 2015-01-27
 [Bruno Sutić](https://github.com/bruno-) - [Capistrano as a deployment tool](https://speakerdeck.com/brunosutic/capistrano-vs-mina-capistrano-demo-talk)
@@ -102,7 +108,7 @@
 [Željko Filipin](https://github.com/zeljkofilipin) - [Basic usage of RuboCop](http://filipin.eu/rubocop/)
 
 ## 2014-10-28
-[Radan Skorić](https://github.com/radanskoric) - [Where to put the business logic?](http://radanskoric.github.io/ror_business_logic_presentation/#/)
+[Radan Skorić](https://github.com/radanskoric) - [Where to put the business logic?](http://radanskoric.github.io/presentations/ror_business_logic)
 
 [Bruno Sutić](https://github.com/bruno-) - [Arel](https://speakerdeck.com/brunosutic/introduction-to-arel)
 
