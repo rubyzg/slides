@@ -10,6 +10,8 @@
 
 [Stjepan Hadjić](https://github.com/d4be4st) - [Blazingfast deployment with Mina](2016-09-26/blazingfastmina.pdf)
 
+[Tomislav Mikulin](https://github.com/MrKindle85) - [Rails associations](2016-09-26/rails_associations.key)
+
 ## 2016-06-30
 
 [Radan Skorić](https://github.com/radanskoric) - [**** microservices](2016-06-30/microservices.pdf)
