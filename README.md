@@ -14,6 +14,8 @@
 
 ## 2016-06-30
 
+[Marko Ćilimković][https://github.com/cilim] - [Trailblazer - a New Architecture for Rails](https://www.emaze.com/@AZIFWRRR/rails-trailblazer)
+
 [Radan Skorić](https://github.com/radanskoric) - [**** microservices](2016-06-30/microservices.pdf)
 
 ## 2016-06-02
