@@ -1,5 +1,9 @@
 # Slides
 
+## 2016-11-29
+
+[Radan Skorić](https://github.com/radanskoric) - ["Extreme Programming Explained" explained](2016-11-29/extreme_programming.pdf)
+
 ## 2016-10-25
 
 [Melita Kokot](https://github.com/melcha) - [Dox](2016-10-25/dox.pdf)
