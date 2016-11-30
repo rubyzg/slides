@@ -4,6 +4,8 @@
 
 [Radan Skorić](https://github.com/radanskoric) - ["Extreme Programming Explained" explained](2016-11-29/extreme_programming.pdf)
 
+[Dario Daić](https://github.com/da1chy) - [Action Pack Variants](https://gist.github.com/da1chy/a93068c5cac286044a500b35005e9841)
+
 ## 2016-10-25
 
 [Melita Kokot](https://github.com/melcha) - [Dox](2016-10-25/dox.pdf)
