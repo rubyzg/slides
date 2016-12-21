@@ -1,5 +1,9 @@
 # Slides
 
+## 2016-12-20
+
+[Bruno Sutic](https://github.com/bruno-) - [Sidekiq Enterprise](2016-12-20/sidekiq_enterprise.pdf)
+
 ## 2016-11-29
 
 [Radan Skorić](https://github.com/radanskoric) - ["Extreme Programming Explained" explained](2016-11-29/extreme_programming.pdf)
