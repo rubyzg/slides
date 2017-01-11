@@ -4,6 +4,8 @@
 
 [Bruno Sutic](https://github.com/bruno-) - [Sidekiq Enterprise](2016-12-20/sidekiq_enterprise.pdf)
 
+[Dario Daic](https://github.com/da1chy) - [Pry plugin: pry-globs](https://github.com/da1chy/pry-globs)
+
 ## 2016-11-29
 
 [Radan Skorić](https://github.com/radanskoric) - ["Extreme Programming Explained" explained](2016-11-29/extreme_programming.pdf)
