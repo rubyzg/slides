@@ -1,5 +1,9 @@
 # Slides
 
+## 2017-01-24
+
+[Bruno Sutic](https://github.com/bruno-) - [Services with gRPC](2017-01-24/services_with_grpc.pdf)
+
 ## 2016-12-20
 
 [Bruno Sutic](https://github.com/bruno-) - [Sidekiq Enterprise](2016-12-20/sidekiq_enterprise.pdf)
