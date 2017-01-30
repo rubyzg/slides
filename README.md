@@ -4,6 +4,8 @@
 
 [Bruno Sutic](https://github.com/bruno-) - [Services with gRPC](2017-01-24/services_with_grpc.pdf)
 
+[Tomislav Mikulin](https://github.com/MrKindle85-) - [Ansible for Rubyists](2017-01-24/ansible_for_rubyists.pdf)
+
 ## 2016-12-20
 
 [Bruno Sutic](https://github.com/bruno-) - [Sidekiq Enterprise](2016-12-20/sidekiq_enterprise.pdf)
