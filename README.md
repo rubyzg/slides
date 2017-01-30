@@ -1,5 +1,23 @@
 # Slides
 
+## 2017-01-24
+
+[Bruno Sutic](https://github.com/bruno-) - [Services with gRPC](2017-01-24/services_with_grpc.pdf)
+
+## 2016-12-20
+
+[Bruno Sutic](https://github.com/bruno-) - [Sidekiq Enterprise](2016-12-20/sidekiq_enterprise.pdf)
+
+[Dario Daic](https://github.com/da1chy) - [Pry plugin: pry-globs](https://github.com/da1chy/pry-globs)
+
+[Nika Jukić](https://github.com/nikajukic) - [Killing dead code with Unused](2016-12-20/unused.pdf)
+
+## 2016-11-29
+
+[Radan Skorić](https://github.com/radanskoric) - ["Extreme Programming Explained" explained](2016-11-29/extreme_programming.pdf)
+
+[Dario Daić](https://github.com/da1chy) - [Action Pack Variants](https://gist.github.com/da1chy/a93068c5cac286044a500b35005e9841)
+
 ## 2016-10-25
 
 [Melita Kokot](https://github.com/melcha) - [Dox](2016-10-25/dox.pdf)
@@ -10,7 +28,11 @@
 
 [Stjepan Hadjić](https://github.com/d4be4st) - [Blazingfast deployment with Mina](2016-09-26/blazingfastmina.pdf)
 
+[Tomislav Mikulin](https://github.com/MrKindle85) - [Rails associations](2016-09-26/rails_associations.key)
+
 ## 2016-06-30
+
+[Marko Ćilimković](https://github.com/cilim) - [Trailblazer: a New Architecture for Rails](https://www.emaze.com/@AZIFWRRR/rails-trailblazer)
 
 [Radan Skorić](https://github.com/radanskoric) - [**** microservices](2016-06-30/microservices.pdf)
 
