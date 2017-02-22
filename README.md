@@ -1,5 +1,11 @@
 # Slides
 
+## 2017-02-21
+
+[Vedran Hrncic](https://github.com/vr4b4c) - [Subclassing Modules](http://slides.com/vrabac/subclassing-modules)
+
+[Damir Svrtan](https://github.com/DamirSvrtan) - [Building Ruby Bots on AWS Lambda](https://speakerdeck.com/damirsvrtan/building-ruby-bots-on-aws-lambda)
+
 ## 2017-01-24
 
 [Bruno Sutic](https://github.com/bruno-) - [Services with gRPC](2017-01-24/services_with_grpc.pdf)
