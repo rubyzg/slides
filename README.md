@@ -1,5 +1,9 @@
 # Slides
 
+## 2017-03-28
+
+[Zoran Majstorovic](https://github.com/zmajstor) - [Modeling a Solid Database](2017-03-28/modeling_a_solid_database.pdf)
+
 ## 2017-02-21
 
 [Vedran Hrncic](https://github.com/vr4b4c) - [Subclassing Modules](http://slides.com/vrabac/subclassing-modules)
