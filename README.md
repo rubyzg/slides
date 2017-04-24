@@ -3,6 +3,7 @@
 ## 2017-03-28
 
 [Zoran Majstorovic](https://github.com/zmajstor) - [Modeling a Solid Database](2017-03-28/modeling_a_solid_database.pdf)
+
 [Stanko Krtalić Rusendić](https://github.com/stankec) - [GraphQL](2017-03-28/graphql.pdf)
 
 ## 2017-02-21
