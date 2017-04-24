@@ -4,6 +4,8 @@
 
 [Zoran Majstorovic](https://github.com/zmajstor) - [Modeling a Solid Database](2017-03-28/modeling_a_solid_database.pdf)
 
+[Stanko Krtalić Rusendić](https://github.com/stankec) - [GraphQL](2017-03-28/graphql.pdf)
+
 ## 2017-02-21
 
 [Vedran Hrncic](https://github.com/vr4b4c) - [Subclassing Modules](http://slides.com/vrabac/subclassing-modules)
@@ -34,7 +36,7 @@
 
 [Melita Kokot](https://github.com/melcha) - [Dox](2016-10-25/dox.pdf)
 
-[Stanko Krtalić Rusendić](https://github.com/Stankec) - [Steganography](2016-10-25/steganography.pdf)
+[Stanko Krtalić Rusendić](https://github.com/stankec) - [Steganography](2016-10-25/steganography.pdf)
 
 ## 2016-26-09
 
@@ -56,7 +58,7 @@
 
 [Dario Daic](https://github.com/dariodaic) - [Pry like a gentleman/lady!](http://slides.com/dariodaic/repl_pry#/)
 
-[Stanko Krtalić Rusendić](https://github.com/Stankec) - [Stubs, mocks and spies](2016-04-28/stubs_mocks_spies.pdf)
+[Stanko Krtalić Rusendić](https://github.com/stankec) - [Stubs, mocks and spies](2016-04-28/stubs_mocks_spies.pdf)
 
 [Radan Skorić](https://github.com/radanskoric) - [Build a DSL for fun and profit (live coding)](https://github.com/radanskoric/presentations/tree/master/building_dsls)
 
@@ -70,7 +72,7 @@
 
 [Dario Daic](https://github.com/dariodaic) - [Ruby objects with a telephone](http://slides.com/dariodaic/ruby_objects_with_a_telephone#/)
 
-[Stanko Krtalić Rusendić](https://github.com/Stankec) - [Docker for Rubyists](2016-02-25/docker_for_ruby_devs.pdf)
+[Stanko Krtalić Rusendić](https://github.com/stankec) - [Docker for Rubyists](2016-02-25/docker_for_ruby_devs.pdf)
 
 ## 2016-01-28
 
@@ -124,7 +126,7 @@
 
 [Filip Defar](https://github.com/dabrorius) - [How to replace Ruby meetup speakers with robots](http://www.refactorit.co/talks/robots/)
 
-[Stanko Krtalić Rusendić](https://github.com/Stankec) - [Ruby Extensions](https://github.com/rubyzg/slides/blob/master/2015-03-31/ruby_extensions.pdf)
+[Stanko Krtalić Rusendić](https://github.com/stankec) - [Ruby Extensions](https://github.com/rubyzg/slides/blob/master/2015-03-31/ruby_extensions.pdf)
 
 ## 2015-02-24
 
