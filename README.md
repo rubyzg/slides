@@ -1,5 +1,9 @@
 # Slides
 
+## 2017-04-25
+
+[Nenad Nikolic](https://github.com/nikone) - [Caching with Ruby on Rails](2017-04-25/caching_with_ruby_on_rails.pdf)
+
 ## 2017-03-28
 
 [Zoran Majstorovic](https://github.com/zmajstor) - [Modeling a Solid Database](2017-03-28/modeling_a_solid_database.pdf)
