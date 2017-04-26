@@ -39,7 +39,6 @@
 [Stanko Krtalić Rusendić](https://github.com/stankec) - [Steganography](2016-10-25/steganography.pdf)
 
 ## 2016-26-09
-
 [Stjepan Hadjić](https://github.com/d4be4st) - [Blazingfast deployment with Mina](2016-09-26/blazingfastmina.pdf)
 
 [Tomislav Mikulin](https://github.com/MrKindle85) - [Rails associations](2016-09-26/rails_associations.key)
