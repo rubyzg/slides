@@ -1,5 +1,9 @@
 # Slides
 
+## 2017-04-25
+
+[Vedran Hrncic](https://github.com/v3dr4n) - [Going off the rails](http://slides.com/vrabac/going-off-the-rails)
+
 ## 2017-03-28
 
 [Zoran Majstorovic](https://github.com/zmajstor) - [Modeling a Solid Database](2017-03-28/modeling_a_solid_database.pdf)
