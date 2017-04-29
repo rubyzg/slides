@@ -2,6 +2,8 @@
 
 ## 2017-04-25
 
+[Nenad Nikolic](https://github.com/nikone) - [Caching with Ruby on Rails](2017-04-25/caching_with_ruby_on_rails.pdf)
+
 [Vedran Hrncic](https://github.com/v3dr4n) - [Going off the rails](http://slides.com/vrabac/going-off-the-rails)
 
 ## 2017-03-28
