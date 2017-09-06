@@ -1,5 +1,15 @@
 # Slides
 
+## 2017-06-27
+
+[Bruno Sutic](https://github.com/bruno-) - [Architecture for scaling IoT devices](2017-06-27/architecture_for_scaling_iot_devices.md)
+
+## 2017-05-30
+
+Nika Jukić: Diving into ActionCable
+
+Dario Daić: RSpec Mocks - practical test object nomenclature
+
 ## 2017-04-25
 
 [Nenad Nikolic](https://github.com/nikone) - [Caching with Ruby on Rails](2017-04-25/caching_with_ruby_on_rails.pdf)
