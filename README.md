@@ -8,7 +8,8 @@
 
 [Nika Jukić](https://github.com/nikajukic) - [Diving into ActionCable](2017-05-30/action_cable.pdf)
 
-Dario Daić: RSpec Mocks - practical test object nomenclature
+
+[Dario Daic](https://github.com/da1chy) - [RSpec Mocks - practical test object nomenclature](http://slides.com/da1chy/rspec-mocks#/)
 
 ## 2017-04-25
 
@@ -72,7 +73,7 @@ Dario Daić: RSpec Mocks - practical test object nomenclature
 
 ## 2016-04-28
 
-[Dario Daic](https://github.com/dariodaic) - [Pry like a gentleman/lady!](http://slides.com/dariodaic/repl_pry#/)
+[Dario Daic](https://github.com/da1chy) - [Pry like a gentleman/lady!](http://slides.com/dariodaic/repl_pry#/)
 
 [Stanko Krtalić Rusendić](https://github.com/stankec) - [Stubs, mocks and spies](2016-04-28/stubs_mocks_spies.pdf)
 
@@ -86,7 +87,7 @@ Dario Daić: RSpec Mocks - practical test object nomenclature
 
 ## 2016-02-25
 
-[Dario Daic](https://github.com/dariodaic) - [Ruby objects with a telephone](http://slides.com/dariodaic/ruby_objects_with_a_telephone#/)
+[Dario Daic](https://github.com/da1chy) - [Ruby objects with a telephone](http://slides.com/dariodaic/ruby_objects_with_a_telephone#/)
 
 [Stanko Krtalić Rusendić](https://github.com/stankec) - [Docker for Rubyists](2016-02-25/docker_for_ruby_devs.pdf)
 
@@ -112,7 +113,7 @@ Dario Daić: RSpec Mocks - practical test object nomenclature
 
 [Ivan Nemytchenko](https://github.com/inem) - [Stop being a Rails developer](https://www.slideshare.net/secret/4k5WrmRcpnfiQ5)
 
-[Dario Daic](https://github.com/dariodaic) - [Enumerators - Are they worth it?](http://slides.com/dariodaic/enumerators#/1)
+[Dario Daic](https://github.com/da1chy) - [Enumerators - Are they worth it?](http://slides.com/dariodaic/enumerators#/1)
 
 ## 2015-09-29
 
