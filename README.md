@@ -6,7 +6,7 @@
 
 ## 2017-05-30
 
-Nika Jukić: Diving into ActionCable
+[Nika Jukić](https://github.com/nikajukic) - [Diving into ActionCable](2017-05-30/action_cable.pdf)
 
 Dario Daić: RSpec Mocks - practical test object nomenclature
 
