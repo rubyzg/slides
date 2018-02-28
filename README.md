@@ -1,5 +1,13 @@
 # Slides
 
+## 2018-02-28
+
+[Stanko Krtalić Rusendić](https://github.com/stankec) - [RabbitMQ is more than a Sidekiq replacement](2018-02-28/rabbitmq_is_more_than_a_sidekiq_replacement.pdf) [[with notes](2018-02-28/rabbitmq_is_more_than_a_sidekiq_replacement-with_presenter_notes.pdf)]
+
+## 2017-11-28
+
+[Stanko Krtalić Rusendić](https://github.com/stankec) - [Helix](2017-11-28/helix.pdf) [[with notes](2017-11-28/helix-with_presenter_notes.pdf)]
+
 ## 2017-06-27
 
 [Bruno Sutic](https://github.com/bruno-) - [Architecture for scaling IoT devices](2017-06-27/architecture_for_scaling_iot_devices.md)
