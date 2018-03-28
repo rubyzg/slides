@@ -4,13 +4,19 @@
 
 [Radan Skorić](https://github.com/radanskoric) - [Stumbling off the Rails](http://radanskoric.eu/presentations/files/stumbling_off_the_rails.pdf)
 
-## 2018-02-28
+## 2018-02-27
+
+[Janko Marohnić](https://github.com/janko-m) - [Dynamic Routing in Ruby](https://speakerdeck.com/janko_m/dynamic-routing-in-ruby)
 
 [Stanko Krtalić Rusendić](https://github.com/stankec) - [RabbitMQ is more than a Sidekiq replacement](2018-02-28/rabbitmq_is_more_than_a_sidekiq_replacement.pdf) [[with notes](2018-02-28/rabbitmq_is_more_than_a_sidekiq_replacement-with_presenter_notes.pdf)]
 
 ## 2017-11-28
 
 [Stanko Krtalić Rusendić](https://github.com/stankec) - [Helix](2017-11-28/helix.pdf) [[with notes](2017-11-28/helix-with_presenter_notes.pdf)]
+
+## 2017-10-26
+
+[Janko Marohnić](https://github.com/janko-m) - [A Look into HTTP.rb (And why you shouldn't use Net::HTTP)](https://speakerdeck.com/janko_m/a-look-into-http-dot-rb-and-why-you-shouldnt-use-net-http)
 
 ## 2017-06-27
 
