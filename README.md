@@ -1,5 +1,9 @@
 # Slides
 
+## 2018-03-27
+
+[Radan Skorić](https://github.com/radanskoric) - [Stumbling off the Rails](http://radanskoric.eu/presentations/files/stumbling_off_the_rails.pdf)
+
 ## 2018-02-28
 
 [Stanko Krtalić Rusendić](https://github.com/stankec) - [RabbitMQ is more than a Sidekiq replacement](2018-02-28/rabbitmq_is_more_than_a_sidekiq_replacement.pdf) [[with notes](2018-02-28/rabbitmq_is_more_than_a_sidekiq_replacement-with_presenter_notes.pdf)]
@@ -157,7 +161,7 @@
 
 [Damir Svrtan](https://github.com/DamirSvrtan) - [Has anyone seen puts?](http://slides.com/damirsvrtan/ruby-talks-1-9#/)
 
-[Radan Skorić](https://github.com/radanskoric) - [Rails spring cleaning](http://radanskoric.github.io/presentations/large_refactoring)
+[Radan Skorić](https://github.com/radanskoric) - [Rails spring cleaning](http://radanskoric.eu/presentations/large_refactoring)
 
 ## 2015-01-27
 
@@ -175,7 +179,7 @@
 
 ## 2014-10-28
 
-[Radan Skorić](https://github.com/radanskoric) - [Where to put the business logic?](http://radanskoric.github.io/presentations/ror_business_logic)
+[Radan Skorić](https://github.com/radanskoric) - [Where to put the business logic?](http://radanskoric.eu/presentations/ror_business_logic)
 
 [Bruno Sutić](https://github.com/bruno-) - [Arel](https://speakerdeck.com/brunosutic/introduction-to-arel)
 
