@@ -1,5 +1,9 @@
 # Slides
 
+## 2018-05-29
+
+[Zoran Majstorović](https://github.com/zmajstor) - [Microservices with RabbitMQ](https://speakerdeck.com/zmajstor/microservices-with-rabbitmq)
+
 ## 2018-03-27
 
 [Radan Skorić](https://github.com/radanskoric) - [Stumbling off the Rails](http://radanskoric.eu/presentations/files/stumbling_off_the_rails.pdf)
