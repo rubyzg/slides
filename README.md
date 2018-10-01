@@ -1,5 +1,9 @@
 # Slides
 
+## 2019-09-27
+
+[Dario Daić](https://github.com/ringz3n) - [#sort VS #sort_by](2018-09-27/sort_vs_sort_by.rb)
+
 ## 2018-03-27
 
 [Radan Skorić](https://github.com/radanskoric) - [Stumbling off the Rails](http://radanskoric.eu/presentations/files/stumbling_off_the_rails.pdf)
@@ -27,7 +31,7 @@
 [Nika Jukić](https://github.com/nikajukic) - [Diving into ActionCable](2017-05-30/action_cable.pdf)
 
 
-[Dario Daic](https://github.com/da1chy) - [RSpec Mocks - practical test object nomenclature](http://slides.com/da1chy/rspec-mocks#/)
+[Dario Daic](https://github.com/ringz3n) - [RSpec Mocks - practical test object nomenclature](http://slides.com/da1chy/rspec-mocks#/)
 
 ## 2017-04-25
 
@@ -57,7 +61,7 @@
 
 [Bruno Sutic](https://github.com/bruno-) - [Sidekiq Enterprise](2016-12-20/sidekiq_enterprise.pdf)
 
-[Dario Daic](https://github.com/da1chy) - [Pry plugin: pry-globs](https://github.com/da1chy/pry-globs)
+[Dario Daic](https://github.com/ringz3n) - [Pry plugin: pry-globs](https://github.com/da1chy/pry-globs)
 
 [Nika Jukić](https://github.com/nikajukic) - [Killing dead code with Unused](2016-12-20/unused.pdf)
 
@@ -65,7 +69,7 @@
 
 [Radan Skorić](https://github.com/radanskoric) - ["Extreme Programming Explained" explained](2016-11-29/extreme_programming.pdf)
 
-[Dario Daić](https://github.com/da1chy) - [Action Pack Variants](https://gist.github.com/da1chy/a93068c5cac286044a500b35005e9841)
+[Dario Daić](https://github.com/ringz3n) - [Action Pack Variants](https://gist.github.com/da1chy/a93068c5cac286044a500b35005e9841)
 
 ## 2016-10-25
 
@@ -91,7 +95,7 @@
 
 ## 2016-04-28
 
-[Dario Daic](https://github.com/da1chy) - [Pry like a gentleman/lady!](http://slides.com/dariodaic/repl_pry#/)
+[Dario Daic](https://github.com/ringz3n) - [Pry like a gentleman/lady!](http://slides.com/dariodaic/repl_pry#/)
 
 [Stanko Krtalić Rusendić](https://github.com/stankec) - [Stubs, mocks and spies](2016-04-28/stubs_mocks_spies.pdf)
 
@@ -105,7 +109,7 @@
 
 ## 2016-02-25
 
-[Dario Daic](https://github.com/da1chy) - [Ruby objects with a telephone](http://slides.com/dariodaic/ruby_objects_with_a_telephone#/)
+[Dario Daic](https://github.com/ringz3n) - [Ruby objects with a telephone](http://slides.com/dariodaic/ruby_objects_with_a_telephone#/)
 
 [Stanko Krtalić Rusendić](https://github.com/stankec) - [Docker for Rubyists](2016-02-25/docker_for_ruby_devs.pdf)
 
@@ -131,7 +135,7 @@
 
 [Ivan Nemytchenko](https://github.com/inem) - [Stop being a Rails developer](https://www.slideshare.net/secret/4k5WrmRcpnfiQ5)
 
-[Dario Daic](https://github.com/da1chy) - [Enumerators - Are they worth it?](http://slides.com/dariodaic/enumerators#/1)
+[Dario Daic](https://github.com/ringz3n) - [Enumerators - Are they worth it?](http://slides.com/dariodaic/enumerators#/1)
 
 ## 2015-09-29
 
