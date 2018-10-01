@@ -13,19 +13,23 @@ require "benchmark"
 # | How #sort_by works? |
 # *---------------------*
 #
-# Prerequisite in order to understand the following benchmarks is understanding
-# how #sort_by works.
+# Prerequisite in order to understand benchmarks below is understanding how
+# #sort_by works.
 #
-# It creates a temporary, intermediate array, with a following structure...
-#   [
-#     [:key_1,:element_1],
-#     [:key_2,:element_2],
-#     .
-#     .
-#     [:key_n,:element_n],
-#   ]
-# then it uses generated keys of that array to sort elements from the original
-# collection.
+# General steps are:
+#  1. execute block for each element in a collection
+#  2. create a temporary array; use block return values as keys of a new array
+#
+#     [
+#       [:key_1,:element_1], --> 1st tuple
+#       [:key_2,:element_2], --> 2nd tuple
+#       .
+#       .
+#       [:key_n,:element_n], --> nth tuple
+#     ]
+#  3. sort tuples using their keys
+#  4. extract elements from the sorted array
+#  5. put extracted elements in a resulting array
 #
 
 #
@@ -33,9 +37,8 @@ require "benchmark"
 # | TIP - method naming |
 # *---------------------*
 #
-# #sort_by uses "_by" suffix in the name in order to indicate to you that
-# a return value from the block will be used to sort original elements
-# of the collection.
+# #sort_by uses "_by" suffix in the name in order to indicate that a return
+# value from the block will be used to sort original elements of the collection.
 #
 # Think about it! :)
 #
@@ -45,8 +48,8 @@ require "benchmark"
 # | block API |
 # *-----------*
 #
-# #sort takes two arguments in the block, while #sort_by takes one.
-# This denotes fundamentally different usage between the two.
+# #sort takes two arguments in the block, while #sort_by takes one. This
+# denotes different usage.
 #
 
 #
@@ -75,12 +78,12 @@ end
 # Interpretation
 # --------------
 #
-# #sort is faster because performing #<=> on integers is a cheap operation, whereas
-# #sort_by has to create a temporary array with keys identical to their values
-# first and then sort out that temporary array.
+# #sort is faster because performing #<=> on integers is a cheap operation,
+# whereas #sort_by has to create a temporary array with keys identical to
+# their values first and then sort it out.
 #
-# In this case, creating #sort_bys' temporary array is more expensive then
-# executing #sorts' blocks.
+# In this case, creating #sort_by temporary array is more expensive then
+# executing #sort blocks.
 #
 
 #
@@ -114,13 +117,13 @@ end
 # Interpretation
 # --------------
 #
-# #sort_by is faster because executing block execution is cheap and sorting out
-# a temporary array is straightforward. Meanwhile, #sort has to create two File
-# objects, call #mtime on each, perform comparison using spaceship operator and
-# it has to do it N - 1 times, where N is the number of collection elements.
+# #sort_by is faster because block execution is cheap and sorting a temporary
+# array is straightforward. Meanwhile, #sort has to instantiate two File objects,
+# call #mtime on each, perform comparison using spaceship operator and
+# do it N - 1 times (where N is the number of collection elements).
 #
-# In this case, creating #sort_bys' temporary array and sorting its elements is
-# cheaper then executing #sorts' blocks.
+# In this case, creating #sort_by temporary array and sorting its elements is
+# cheaper then executing #sort blocks.
 #
 
 #
@@ -129,8 +132,7 @@ end
 # *-------------------*
 #
 # USE SORT when you have to compare two objects and perform simple computation.
-# Such as doing comparison via **spaceship operator**.
+# Such as comparing via **spaceship operator**.
 #
-# USE SORT_BY when computation you have to perform is expensive, or would be
-# more expensive if #sort was used.
+# USE SORT_BY when computation is expensive, or would be if #sort was used.
 #
