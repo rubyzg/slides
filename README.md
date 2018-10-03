@@ -20,6 +20,7 @@
 ## 2019-09-27
 
 [Dario Daić](https://github.com/ringz3n) - [#sort VS #sort_by](2018-09-27/sort_vs_sort_by.rb)
+
 [Piotr Misiurek](https://github.com/PiotrMisiurek) - [Reform](2018-09-27/reform.pdf)
 
 ## 2018-05-29
