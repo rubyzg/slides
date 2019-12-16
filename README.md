@@ -1,5 +1,9 @@
 # Slides
 
+## 2019-12-12
+
+[Vlado Cingel](https://github.com/vlado) - [Organising complex SQL queries in Rails](https://vlado.github.io/slides/2019-12-12-organising-complex-sql-queries-in-rails/#/)
+
 ## 2019-09-27
 
 [Dario Daić](https://github.com/ringz3n) - [#sort VS #sort_by](2018-09-27/sort_vs_sort_by.rb)
@@ -117,7 +121,7 @@
 
 [Filip Defar](https://github.com/dabrorius) - [Ruby still wants to be your best friend](https://github.com/rubyzg/slides/blob/master/2016-01-28/ruby-best-friend.pdf)
 
-[Vlado Cingel](https://github.com/vlado) - How to deploy Rails on Windows, NOT!
+[Vlado Cingel](https://github.com/vlado) - [How to deploy Rails on Windows, NOT!](https://vlado.github.io/slides/2016-01-28-RubyZG-how-to-deploy-rails-on-windows-not/#/)
 
 ## 2015-12-22
 
