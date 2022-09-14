@@ -1,5 +1,9 @@
 # Slides
 
+## 2022-09-13
+
+[Fabien Loup](https://github.com/norydev) - [Building an API with Grape](2022-09-13/building-api-with-grape.pdf)
+
 ## 2019-12-12
 
 [Vlado Cingel](https://github.com/vlado) - [Organising complex SQL queries in Rails](https://vlado.github.io/slides/2019-12-12-organising-complex-sql-queries-in-rails/#/)
