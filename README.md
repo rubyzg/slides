@@ -1,5 +1,9 @@
 # Slides
 
+## 2022-11-08
+
+[Vlado Cingel](https://github.com/vlado) - [Value Objects in Ruby (and Rails)](2022-11-08/value-objects-in-ruby-and-rails.pdf)
+
 ## 2022-09-13
 
 [Fabien Loup](https://github.com/norydev) - [Building an API with Grape](2022-09-13/building-api-with-grape.pdf)
