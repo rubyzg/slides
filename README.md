@@ -1,5 +1,9 @@
 # Slides
 
+## 2023-02-28
+
+[Rino Kovačević](https://github.com/Rinoku) - [Background jobs with Rails](2023-02-28/background_jobs_with_rails.pdf)
+
 ## 2022-11-08
 
 [Vlado Cingel](https://github.com/vlado) - [Value Objects in Ruby (and Rails)](2022-11-08/value-objects-in-ruby-and-rails.pdf)
