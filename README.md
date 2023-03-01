@@ -3,6 +3,7 @@
 ## 2023-02-28
 
 [Rino Kovačević](https://github.com/Rinoku) - [Background jobs with Rails](2023-02-28/background_jobs_with_rails.pdf)
+[Mirko Cerovac](https://github.com/MirkoC) - [How to start testing your Rails app with RSpec](2023-02-28/rspec-intro.pdf)
 
 ## 2022-11-08
 
