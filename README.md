@@ -21,6 +21,10 @@
 
 [Dario Daić](https://github.com/ringz3n) - [#sort VS #sort_by](2018-09-27/sort_vs_sort_by.rb)
 
+## 2018-05-29
+
+[Zoran Majstorović](https://github.com/zmajstor) - [Microservices with RabbitMQ](https://speakerdeck.com/zmajstor/microservices-with-rabbitmq)
+
 ## 2018-03-27
 
 [Radan Skorić](https://github.com/radanskoric) - [Stumbling off the Rails](http://radanskoric.eu/presentations/files/stumbling_off_the_rails.pdf)
