@@ -1,10 +1,31 @@
 # Slides
 
+## 2023-02-28
+
+[Rino Kovačević](https://github.com/Rinoku) - [Background jobs with Rails](2023-02-28/background_jobs_with_rails.pdf)
+[Mirko Cerovac](https://github.com/MirkoC) - [How to start testing your Rails app with RSpec](2023-02-28/rspec-intro.pdf)
+
+## 2022-11-08
+
+[Vlado Cingel](https://github.com/vlado) - [Value Objects in Ruby (and Rails)](2022-11-08/value-objects-in-ruby-and-rails.pdf)
+
+## 2022-09-13
+
+[Fabien Loup](https://github.com/norydev) - [Building an API with Grape](2022-09-13/building-api-with-grape.pdf)
+
+## 2019-12-12
+
+[Vlado Cingel](https://github.com/vlado) - [Organising complex SQL queries in Rails](https://vlado.github.io/slides/2019-12-12-organising-complex-sql-queries-in-rails/#/)
+
 ## 2019-09-27
 
 [Dario Daić](https://github.com/ringz3n) - [#sort VS #sort_by](2018-09-27/sort_vs_sort_by.rb)
 
 [Piotr Misiurek](https://github.com/PiotrMisiurek) - [Reform](2018-09-27/reform.pdf)
+
+## 2018-05-29
+
+[Zoran Majstorović](https://github.com/zmajstor) - [Microservices with RabbitMQ](https://speakerdeck.com/zmajstor/microservices-with-rabbitmq)
 
 ## 2018-03-27
 
@@ -119,7 +140,7 @@
 
 [Filip Defar](https://github.com/dabrorius) - [Ruby still wants to be your best friend](https://github.com/rubyzg/slides/blob/master/2016-01-28/ruby-best-friend.pdf)
 
-[Vlado Cingel](https://github.com/vlado) - How to deploy Rails on Windows, NOT!
+[Vlado Cingel](https://github.com/vlado) - [How to deploy Rails on Windows, NOT!](https://vlado.github.io/slides/2016-01-28-RubyZG-how-to-deploy-rails-on-windows-not/#/)
 
 ## 2015-12-22
 
