@@ -29,7 +29,7 @@
 
 ## 2018-03-27
 
-[Radan Skorić](https://github.com/radanskoric) - [Stumbling off the Rails](http://radanskoric.eu/presentations/files/stumbling_off_the_rails.pdf)
+[Radan Skorić](https://github.com/radanskoric) - [Stumbling off the Rails](https://radanskoric.com/talks/files/stumbling_off_the_rails.pdf)
 
 ## 2018-02-27
 
@@ -122,7 +122,7 @@
 
 [Stanko Krtalić Rusendić](https://github.com/stankec) - [Stubs, mocks and spies](2016-04-28/stubs_mocks_spies.pdf)
 
-[Radan Skorić](https://github.com/radanskoric) - [Build a DSL for fun and profit (live coding)](https://github.com/radanskoric/presentations/tree/master/building_dsls)
+[Radan Skorić](https://github.com/radanskoric) - [Build a DSL for fun and profit (live coding)](https://github.com/radanskoric/radanskoric.github.io/tree/master/talks/building_dsls)
 
 ## 2016-03-31
 
@@ -194,7 +194,7 @@
 
 [Damir Svrtan](https://github.com/DamirSvrtan) - [Has anyone seen puts?](http://slides.com/damirsvrtan/ruby-talks-1-9#/)
 
-[Radan Skorić](https://github.com/radanskoric) - [Rails spring cleaning](http://radanskoric.eu/presentations/large_refactoring)
+[Radan Skorić](https://github.com/radanskoric) - [Rails spring cleaning](https://radanskoric.com/talks/large_refactoring)
 
 ## 2015-01-27
 
@@ -212,7 +212,7 @@
 
 ## 2014-10-28
 
-[Radan Skorić](https://github.com/radanskoric) - [Where to put the business logic?](http://radanskoric.eu/presentations/ror_business_logic)
+[Radan Skorić](https://github.com/radanskoric) - [Where to put the business logic?](https://radanskoric.com/talks/ror_business_logic)
 
 [Bruno Sutić](https://github.com/bruno-) - [Arel](https://speakerdeck.com/brunosutic/introduction-to-arel)
 
