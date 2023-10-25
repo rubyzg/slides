@@ -1,8 +1,14 @@
 # Slides
 
+## 2023-10-24
+[Miha Rekar](https://mr.si/) - [What's new in Rails?](https://speakerdeck.com/mrfoto/whats-new-in-rails)
+
+[Radan Skorić](https://radanskoric.com/) - [Typed Ruby](2023-10-24/typed-ruby.pdf) ([keynote file](2023-10-24/typed-ruby.key))
+
 ## 2023-02-28
 
 [Rino Kovačević](https://github.com/Rinoku) - [Background jobs with Rails](2023-02-28/background_jobs_with_rails.pdf)
+
 [Mirko Cerovac](https://github.com/MirkoC) - [How to start testing your Rails app with RSpec](2023-02-28/rspec-intro.pdf)
 
 ## 2022-11-08
@@ -29,7 +35,7 @@
 
 ## 2018-03-27
 
-[Radan Skorić](https://github.com/radanskoric) - [Stumbling off the Rails](https://radanskoric.com/talks/files/stumbling_off_the_rails.pdf)
+[Radan Skorić](https://radanskoric.com/) - [Stumbling off the Rails](https://radanskoric.com/talks/files/stumbling_off_the_rails.pdf)
 
 ## 2018-02-27
 
@@ -90,7 +96,7 @@
 
 ## 2016-11-29
 
-[Radan Skorić](https://github.com/radanskoric) - ["Extreme Programming Explained" explained](2016-11-29/extreme_programming.pdf)
+[Radan Skorić](https://radanskoric.com/) - ["Extreme Programming Explained" explained](2016-11-29/extreme_programming.pdf)
 
 [Dario Daić](https://github.com/ringz3n) - [Action Pack Variants](https://gist.github.com/da1chy/a93068c5cac286044a500b35005e9841)
 
@@ -110,7 +116,7 @@
 
 [Marko Ćilimković](https://github.com/cilim) - [Trailblazer: a New Architecture for Rails](https://www.emaze.com/@AZIFWRRR/rails-trailblazer)
 
-[Radan Skorić](https://github.com/radanskoric) - [**** microservices](2016-06-30/microservices.pdf)
+[Radan Skorić](https://radanskoric.com/) - [**** microservices](2016-06-30/microservices.pdf)
 
 ## 2016-06-02
 
@@ -122,7 +128,7 @@
 
 [Stanko Krtalić Rusendić](https://github.com/stankec) - [Stubs, mocks and spies](2016-04-28/stubs_mocks_spies.pdf)
 
-[Radan Skorić](https://github.com/radanskoric) - [Build a DSL for fun and profit (live coding)](https://github.com/radanskoric/radanskoric.github.io/tree/master/talks/building_dsls)
+[Radan Skorić](https://radanskoric.com/) - [Build a DSL for fun and profit (live coding)](https://radanskoric.com//radanskoric.github.io/tree/master/talks/building_dsls)
 
 ## 2016-03-31
 
@@ -194,7 +200,7 @@
 
 [Damir Svrtan](https://github.com/DamirSvrtan) - [Has anyone seen puts?](http://slides.com/damirsvrtan/ruby-talks-1-9#/)
 
-[Radan Skorić](https://github.com/radanskoric) - [Rails spring cleaning](https://radanskoric.com/talks/large_refactoring)
+[Radan Skorić](https://radanskoric.com/) - [Rails spring cleaning](https://radanskoric.com/talks/large_refactoring)
 
 ## 2015-01-27
 
@@ -212,7 +218,7 @@
 
 ## 2014-10-28
 
-[Radan Skorić](https://github.com/radanskoric) - [Where to put the business logic?](https://radanskoric.com/talks/ror_business_logic)
+[Radan Skorić](https://radanskoric.com/) - [Where to put the business logic?](https://radanskoric.com/talks/ror_business_logic)
 
 [Bruno Sutić](https://github.com/bruno-) - [Arel](https://speakerdeck.com/brunosutic/introduction-to-arel)
 
