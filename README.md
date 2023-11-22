@@ -1,5 +1,8 @@
 # Slides
 
+## 2023-11-21
+[Juraj Sulimanović](https://github.com/Juraj-Sulimanovic) - [Dissecting Service Objects](2023-11-21/dissecting_service_objects.pdf)
+
 ## 2023-10-24
 [Miha Rekar](https://mr.si/) - [What's new in Rails?](https://speakerdeck.com/mrfoto/whats-new-in-rails)
 
