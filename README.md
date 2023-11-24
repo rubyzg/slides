@@ -1,6 +1,8 @@
 # Slides
 
 ## 2023-11-21
+[Bruno Sutic](https://brunosutic.com) - [linkok.com - making a webapp the hard way](2023-11-21/linkok.com_making_a_webapp_the_hard_way.pdf)
+
 [Juraj Sulimanović](https://github.com/Juraj-Sulimanovic) - [Dissecting Service Objects](2023-11-21/dissecting_service_objects.pdf)
 
 ## 2023-10-24
