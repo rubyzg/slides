@@ -1,5 +1,8 @@
 # Slides
 
+## 2024-01-24
+[Dominik Mačković](https://github.com/DominikMackovic) - [Model antipatterns in Rails](2024-01-24/Anti patterns slides.pptx)
+
 ## 2023-11-21
 [Bruno Sutic](https://brunosutic.com) - [linkok.com - making a webapp the hard way](2023-11-21/linkok.com_making_a_webapp_the_hard_way.pdf)
 
