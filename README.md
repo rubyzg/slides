@@ -2,6 +2,7 @@
 
 ## 2024-01-24
 [Dominik Mačković](https://github.com/DominikMackovic) - [Model antipatterns in Rails](2024-01-24/Model_anti_patterns_slides.pptx)
+[Stanko Krtalić Rusendić](https://github.com/monorkin) - [Deconstructing Action Cable](2024-01-24/Deconstructing Action Cable.pdf)
 
 ## 2023-11-21
 [Bruno Sutic](https://brunosutic.com) - [linkok.com - making a webapp the hard way](2023-11-21/linkok.com_making_a_webapp_the_hard_way.pdf)
@@ -27,6 +28,10 @@
 
 [Fabien Loup](https://github.com/norydev) - [Building an API with Grape](2022-09-13/building-api-with-grape.pdf)
 
+## 2022-06-15
+[Stanko Krtalić Rusendić](https://github.com/monorkin) - [Hotwired](2022-06-15/rubyzg_hotwired.pdf)
+
+
 ## 2019-12-12
 
 [Vlado Cingel](https://github.com/vlado) - [Organising complex SQL queries in Rails](https://vlado.github.io/slides/2019-12-12-organising-complex-sql-queries-in-rails/#/)
@@ -49,11 +54,11 @@
 
 [Janko Marohnić](https://github.com/janko-m) - [Dynamic Routing in Ruby](https://speakerdeck.com/janko_m/dynamic-routing-in-ruby)
 
-[Stanko Krtalić Rusendić](https://github.com/stankec) - [RabbitMQ is more than a Sidekiq replacement](2018-02-28/rabbitmq_is_more_than_a_sidekiq_replacement.pdf) [[with notes](2018-02-28/rabbitmq_is_more_than_a_sidekiq_replacement-with_presenter_notes.pdf)]
+[Stanko Krtalić Rusendić](https://github.com/monorkin) - [RabbitMQ is more than a Sidekiq replacement](2018-02-28/rabbitmq_is_more_than_a_sidekiq_replacement.pdf) [[with notes](2018-02-28/rabbitmq_is_more_than_a_sidekiq_replacement-with_presenter_notes.pdf)]
 
 ## 2017-11-28
 
-[Stanko Krtalić Rusendić](https://github.com/stankec) - [Helix](2017-11-28/helix.pdf) [[with notes](2017-11-28/helix-with_presenter_notes.pdf)]
+[Stanko Krtalić Rusendić](https://github.com/monorkin) - [Helix](2017-11-28/helix.pdf) [[with notes](2017-11-28/helix-with_presenter_notes.pdf)]
 
 ## 2017-10-26
 
@@ -80,7 +85,7 @@
 
 [Zoran Majstorovic](https://github.com/zmajstor) - [Modeling a Solid Database](2017-03-28/modeling_a_solid_database.pdf)
 
-[Stanko Krtalić Rusendić](https://github.com/stankec) - [GraphQL](2017-03-28/graphql.pdf)
+[Stanko Krtalić Rusendić](https://github.com/monorkin) - [GraphQL](2017-03-28/graphql.pdf)
 
 ## 2017-02-21
 
@@ -112,7 +117,7 @@
 
 [Melita Kokot](https://github.com/melcha) - [Dox](2016-10-25/dox.pdf)
 
-[Stanko Krtalić Rusendić](https://github.com/stankec) - [Steganography](2016-10-25/steganography.pdf)
+[Stanko Krtalić Rusendić](https://github.com/monorkin) - [Steganography](2016-10-25/steganography.pdf)
 
 ## 2016-26-09
 
@@ -134,7 +139,7 @@
 
 [Dario Daic](https://github.com/ringz3n) - [Pry like a gentleman/lady!](http://slides.com/dariodaic/repl_pry#/)
 
-[Stanko Krtalić Rusendić](https://github.com/stankec) - [Stubs, mocks and spies](2016-04-28/stubs_mocks_spies.pdf)
+[Stanko Krtalić Rusendić](https://github.com/monorkin) - [Stubs, mocks and spies](2016-04-28/stubs_mocks_spies.pdf)
 
 [Radan Skorić](https://radanskoric.com/) - [Build a DSL for fun and profit (live coding)](https://radanskoric.com//radanskoric.github.io/tree/master/talks/building_dsls)
 
@@ -148,7 +153,7 @@
 
 [Dario Daic](https://github.com/ringz3n) - [Ruby objects with a telephone](http://slides.com/dariodaic/ruby_objects_with_a_telephone#/)
 
-[Stanko Krtalić Rusendić](https://github.com/stankec) - [Docker for Rubyists](2016-02-25/docker_for_ruby_devs.pdf)
+[Stanko Krtalić Rusendić](https://github.com/monorkin) - [Docker for Rubyists](2016-02-25/docker_for_ruby_devs.pdf)
 
 ## 2016-01-28
 
@@ -202,7 +207,7 @@
 
 [Filip Defar](https://github.com/dabrorius) - [How to replace Ruby meetup speakers with robots](http://www.refactorit.co/talks/robots/)
 
-[Stanko Krtalić Rusendić](https://github.com/stankec) - [Ruby Extensions](https://github.com/rubyzg/slides/blob/master/2015-03-31/ruby_extensions.pdf)
+[Stanko Krtalić Rusendić](https://github.com/monorkin) - [Ruby Extensions](https://github.com/rubyzg/slides/blob/master/2015-03-31/ruby_extensions.pdf)
 
 ## 2015-02-24
 
