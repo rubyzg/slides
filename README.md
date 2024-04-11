@@ -1,4 +1,8 @@
 # Slides
+## 2024-02-28
+[Marko Matotan](https://github.com/mmatotan) - [State of developer experience tools and LSPs in Ruby](2024-02-28/devex_and_lsps_ruby.pdf)
+
+[Mateo Vukušić](https://github.com/mateo9) - [Ruby Constant Lookup](2024-02-28/Ruby-constants-lookup.key)
 
 ## 2024-01-24
 [Dominik Mačković](https://github.com/DominikMackovic) - [Model antipatterns in Rails](2024-01-24/Model_anti_patterns_slides.pptx)
