@@ -1,4 +1,7 @@
 # Slides
+## 2025-02-19
+[Juraj Sulimanović](https://github.com/Juraj-Sulimanovic) - [Code as Design](2025-02-19/code_as_design.pdf)
+
 ## 2024-02-28
 [Marko Matotan](https://github.com/mmatotan) - [State of developer experience tools and LSPs in Ruby](2024-02-28/devex_and_lsps_ruby.pdf)
 
